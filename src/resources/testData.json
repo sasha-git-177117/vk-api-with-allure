@@ -1,0 +1,13 @@
+{
+  "postIdWithImage" : "14720997_4953",
+  "testIdImage" : "457243536",
+  "baseUrl" : "https://vk.com/",
+  "idUrl" : "https://vk.com/id",
+  "mediaIdFormat" : "photo%s_%s",
+  "userId" : "792771639",
+  "postType" : "post",
+  "firstSymbolCode" : 97,
+  "lastSymbolCode" : 122,
+  "countSymbols" : 100,
+  "typePhoto" : "x"
+}

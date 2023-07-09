@@ -1,0 +1,9 @@
+{
+  "baseURI": "https://api.vk.com/method",
+  "apiVersion": "5.131",
+  "ownerId": "",
+  "accessToken" : "",
+  "baseUrl" : "https://vk.com",
+  "login" : "",
+  "password" : ""
+}
